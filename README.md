@@ -1,0 +1,1 @@
+This is a fairly straightforward python Poe serverbot that can be hosted on modal. It reads commands from the front of the users prompt and decides which model to use accordingly. The code is short enough that you can have ChatGPT or GPT-4 or Claude give you more details.
